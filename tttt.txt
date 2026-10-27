@@ -1,1 +1,1 @@
-retete
+This is text file the purpose of learning is to understand git
